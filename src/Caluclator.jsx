@@ -3,7 +3,7 @@ import React from 'react'
 const Caluclator = () => {
     return (
         <div>
-           <>hello world to me </> 
+           <>hello world to me</> 
         </div>
     )
 }
